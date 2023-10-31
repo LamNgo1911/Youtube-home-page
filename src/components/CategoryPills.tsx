@@ -104,9 +104,3 @@ const CategoryPills = ({ categories, selectedCategory, onSelect }: Props) => {
 };
 
 export default CategoryPills;
-function useEfect(
-  arg0: () => (() => void) | undefined,
-  arg1: (number | string[])[]
-) {
-  throw new Error("Function not implemented.");
-}
